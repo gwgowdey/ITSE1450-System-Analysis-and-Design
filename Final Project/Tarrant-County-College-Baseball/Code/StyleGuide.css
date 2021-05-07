@@ -1,0 +1,93 @@
+#Style1
+{
+    float: left;
+    margin-right: 15px;
+    width: 210px;
+    height: 60px;
+    padding: 10px;
+    border: 3px solid black;
+}
+
+#Style2
+{
+    width: 600px;
+    height: 60px;
+    padding: 10px;
+    border: 3px solid black;
+}
+
+#Style3
+{
+    width: 165px;
+    height: 280px;
+    padding: 10px;
+    border: 3px solid black;
+}
+
+#Style4
+{
+    float: left;
+}
+
+#Style5
+{
+    float: right;
+}
+
+#Style6
+{
+    float: left;
+    margin-right: 15px;
+    width: 135px;
+    height: 95px;
+    padding: 10px;
+    border: 3px solid black;
+}
+
+#Style7
+{
+    float: left;
+    margin-right: 15px;
+    width: 105px;
+    height: 95px;
+    padding: 10px;
+    border: 3px solid black;
+}
+
+#Style8
+{
+    float: left;
+    margin-right: 15px;
+    width: 120px;
+    height: 95px;
+    padding: 10px;
+    border: 3px solid black;
+}
+
+#Style9
+{
+    width: 165px;
+    height: 365px;
+    padding: 10px;
+    border: 3px solid black;
+}
+
+#Style10
+{
+    width: 165px;
+    height: 680px;
+    padding: 10px;
+    border: 3px solid black; 
+}
+
+table
+{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+tr, th, td
+{
+    border-bottom: 1px solid black;
+    text-align: center;
+}
